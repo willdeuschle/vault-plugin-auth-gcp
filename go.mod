@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-plugin-auth-gcp
+module github.com/willdeuschle/vault-plugin-auth-gcp
 
 go 1.12
 

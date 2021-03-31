@@ -41,7 +41,9 @@ var (
 			"service_account_id",
 			"service_account_email",
 		},
-		AvailableToAdd: []string{},
+		AvailableToAdd: []string{
+			"instance_name",
+		},
 	}
 )
 
